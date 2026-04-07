@@ -1,0 +1,9 @@
+gradio
+git+https://github.com/huggingface/diffusers
+transformers
+kernels
+
+torch
+transformers
+accelerate
+spaces
